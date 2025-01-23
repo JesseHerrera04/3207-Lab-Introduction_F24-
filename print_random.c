@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-
+int randchar(); // Added function delcaration in order for executable to function in linux
 
 int main()
 {
